@@ -1,2 +1,9 @@
 jupyter/
+.ipynb_checkpoints/
 notebook/
+bell-ring-01.mp3
+error-alert.mp3
+event_triggers.csv
+event_triggers.pkl
+events.html
+transformer-1.mp3
